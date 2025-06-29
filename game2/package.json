@@ -1,0 +1,11 @@
+{
+  "name": "game2",
+  "version": "1.0.0",
+  "description": "PixiJS Game 2 setup",
+  "main": "js/game.js",
+  "scripts": {
+    "start": ""
+  },
+  "author": "",
+  "license": "ISC"
+}

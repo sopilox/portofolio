@@ -1,0 +1,11 @@
+{
+  "name": "game4",
+  "version": "1.0.0",
+  "description": "Playable Ad Game 4",
+  "main": "js/game.js",
+  "scripts": {
+    "start": "echo 'Open index.html in your browser'"
+  },
+  "author": "",
+  "license": "ISC"
+}

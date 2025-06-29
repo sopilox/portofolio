@@ -1,0 +1,9 @@
+{
+  "name": "pixijs-game",
+  "version": "1.0.0",
+  "description": "A PixiJS game project",
+  "main": "js/game.js",
+  "dependencies": {
+    "pixi.js": "^7.2.4"
+  }
+}
